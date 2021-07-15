@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{AA2F3067-5C9B-4CCF-89D4-1F93CE1C510F}" version="14.0">
+	<children>
+		<child name="c4611_sample_explain1" key="{EDCE24CB-0767-4167-9521-0B11D8AC65F8}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="14.0" caption="c4611_sample_explain1" ID="{EDCE24CB-0767-4167-9521-0B11D8AC65F8}" FileName="Files\c4611_sample_explain.txt" Update="False" />
+		</child>
+		<child name="c4611_sample_explain2" key="{6F101094-6A28-4C38-9E83-FAE95214C1B0}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="14.0" caption="c4611_sample_explain2" ID="{6F101094-6A28-4C38-9E83-FAE95214C1B0}" FileName="Files\c4611_sample_explain1.txt" Update="False" />
+		</child>
+		<child name="c4611_sample_explain3a" key="{AC7D465D-877C-42D6-8CC8-656AA85C38BB}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="14.0" caption="c4611_sample_explain3a" ID="{AC7D465D-877C-42D6-8CC8-656AA85C38BB}" FileName="Files\c4611_sample_explain2.txt" Update="False" />
+		</child>
+	</children>
+</Root>

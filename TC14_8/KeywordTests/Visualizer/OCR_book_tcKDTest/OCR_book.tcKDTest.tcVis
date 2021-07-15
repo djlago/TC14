@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{5BF7B8DA-9149-4C6C-9E6C-64E568C00521}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44328.7962384259" objectName="Aliases.browser.BrowserWindow" objectLeft="-11" objectTop="-11" objectRight="2571" objectBottom="1391" clickPointX="321" clickPointY="136" imageFileName="tcvi2655803180080.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44328.7963425926" objectName="Aliases.browser.pageShop.sectionContent.article4.linkFurniture.imageFurnitureJpgSize250" objectLeft="1035" objectTop="718" objectRight="1219" objectBottom="928" clickPointX="1087" clickPointY="848" imageFileName="tcvi2656706280084.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44328.7963773148" objectName="Aliases.browser.pageFurniture.sectionContent.linkEeroAarnioBallChair1966.imageBallChairJpgSize250" objectLeft="1210" objectTop="799" objectRight="1439" objectBottom="1060" clickPointX="1270" clickPointY="932" imageFileName="tcvi2656984380088.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="44328.7964699074" objectName="Aliases.browser.BrowserWindow" objectLeft="-11" objectTop="-11" objectRight="2571" objectBottom="1391" clickPointX="1095" clickPointY="138" imageFileName="tcvi26577687800812.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="44328.7965625" objectName="Aliases.browser.BrowserWindow" objectLeft="1636" objectTop="116" objectRight="1715" objectBottom="134" clickPointX="1680" clickPointY="119" imageFileName="tcvi26585937800817.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Table Name="DBTable1">
+		<Source ConnectionString="Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=contactloop;Data Source=SB-MA-PC166XTX\SQLEXPRESS" Object="Table" DataObjectContent="contactloop_table&#13;&#10;dbo">
+			<DataExtraction Type="" />
+		</Source>
+		<Columns>
+			<Column>Name</Column>
+			<Column>Email</Column>
+			<Column>Enquiry</Column>
+		</Columns>
+		<Rows>
+			<Row>
+				<Cell Type="String">Jasper Johns</Cell>
+				<Cell Type="String">jasper@john.com</Cell>
+				<Cell Type="String">Where is my stuff?</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">Eva Hesse</Cell>
+				<Cell Type="String">e.hesse@mailstuff.com</Cell>
+				<Cell Type="String">Shipment arrived on time</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">Donald Judd</Cell>
+				<Cell Type="String">dj@boxes.com</Cell>
+				<Cell Type="String">my order is late</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">Sol LeWitt</Cell>
+				<Cell Type="String">sol@lines.com</Cell>
+				<Cell Type="String">Please help</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">Franz Kline</Cell>
+				<Cell Type="String">fkline@highstreet.com</Cell>
+				<Cell Type="String">Lost my tracking number</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">Eva Hesse</Cell>
+				<Cell Type="String">e.hessed@abex.com</Cell>
+				<Cell Type="String">Help with order</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">Andy Warhol</Cell>
+				<Cell Type="String">Andy@Andy.com</Cell>
+				<Cell Type="String">Order is perfect</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">Frank Stella</Cell>
+				<Cell Type="String">stella@philips.edu</Cell>
+				<Cell Type="String">Hello</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">Jackson Pollock</Cell>
+				<Cell Type="String">Jackson@abstract.com</Cell>
+				<Cell Type="String">how mush is shipping?</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">Josef Albers</Cell>
+				<Cell Type="String">j_albers@square.com</Cell>
+				<Cell Type="String">forgot my password</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">Dan Lago</Cell>
+				<Cell Type="String">djl@sb.com</Cell>
+				<Cell Type="String">Where is my stuff</Cell>
+			</Row>
+		</Rows>
+	</Table>
+</Root>

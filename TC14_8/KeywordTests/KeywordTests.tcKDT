@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<folder name="Orders_app">
+			<child name="Test3" key="{A6479E40-AEF3-4D6E-A543-A76FF03D70A2}" path="Test3.tcKDTest" />
+			<child name="Orders1" key="{D35217EA-404F-459E-B61E-C60012711F2F}" path="Orders1.tcKDTest" />
+			<child name="Orders2" key="{6DA5E86C-2ADB-4181-9F01-B76BBAA8E717}" path="Orders2.tcKDTest" />
+			<child name="Test_Orders" key="{0C203E5C-B7A5-4809-B877-5375DA2C63C2}" path="Test_Orders.tcKDTest" />
+		</folder>
+		<folder name="Mobile">
+			<child name="MobilePhone" key="{8677A117-53A5-4B2D-9A1F-E0520217D3A0}" path="MobilePhone.tcKDTest" />
+			<child name="Pixel4_Emul" key="{424A3DA1-067C-479C-B611-630882F18E92}" path="Pixel4_Emul.tcKDTest" />
+			<child name="TabA_Orders" key="{041B76F4-19C6-4B17-A14D-5AA3445A12FB}" path="TabA_Orders.tcKDTest" />
+			<child name="TC_BB" key="{5E75462C-AB06-48B5-996C-35EAC767A1B1}" path="TC_BB.tcKDTest" />
+			<child name="Pixel4_sim" key="{FD53277B-58DE-4A5D-A3D1-D7590653D26E}" path="Pixel4_sim.tcKDTest" />
+			<child name="Test19" key="{FE5E91AB-C530-4606-93F3-0D7FE9B9CA43}" path="Test19.tcKDTest" />
+			<child name="pixel5US" key="{A49A6536-8094-454B-9E7B-6845A5621E0A}" path="pixel5US.tcKDTest" />
+		</folder>
+		<folder name="OCR_web">
+			<child name="OCR" key="{5804CAE9-F122-40D4-8E12-31446464334D}" path="OCR.tcKDTest" />
+			<child name="OCR_book" key="{5BF7B8DA-9149-4C6C-9E6C-64E568C00521}" path="OCR_book.tcKDTest" />
+			<child name="OCR_sales" key="{9BCB733A-DDE6-4D31-9A0A-0AB3CB85AE87}" path="OCR_sales.tcKDTest" />
+			<child name="OCR_Chart" key="{0E345651-7C7D-4396-8E7B-44170D842A43}" path="OCR_Chart.tcKDTest" />
+			<child name="OCR_test2" key="{DC36769C-65F1-4FCD-A628-B41211FDB6A7}" path="OCR_test2.tcKDTest" />
+		</folder>
+		<child name="GiftCard" key="{DAC46A25-6422-49BA-88C9-C90B13B17302}" path="GiftCard.tcKDTest" />
+		<child name="Watch" key="{2F5E470B-EAD3-4918-9442-02AF917287B2}" path="Watch.tcKDTest" />
+		<child name="LogIn" key="{11B9D2E0-8FC4-4A0C-9A64-35006ECE87DA}" path="LogIn.tcKDTest" />
+		<child name="Contact" key="{45B5A56E-ECA9-4462-8BF3-7AB76021331C}" path="Contact.tcKDTest" />
+		<child name="Logout" key="{802D8A70-B1DB-4688-A1BC-764AEA7F78FB}" path="Logout.tcKDTest" />
+		<child name="hovermouse" key="{5A16B3A5-8F83-471C-AB73-6EDC6BEFAEF6}" path="hovermouse.tcKDTest" />
+	</children>
+</Root>
