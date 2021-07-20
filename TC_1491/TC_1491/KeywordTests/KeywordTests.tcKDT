@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
-	<children>
-		<child name="Phone1" key="{62506E28-BBDF-4C69-92DC-B1B546CFB855}" path="Phone1.tcKDTest" />
-		<child name="GiftCard" key="{F685FF51-098B-4545-97E9-45E1E3464934}" path="GiftCard.tcKDTest" />
-	</children>
-</Root>
