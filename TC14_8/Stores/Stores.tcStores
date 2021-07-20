@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Root signature="{5238AF17-5FE2-48FF-8BCC-9803A975A4F4}" version="14.0">
-	<children>
-		<child name="Files" key="{D0E1AE43-C632-4210-97BA-787002C13A2E}" type="Files" typeId="{AA2F3067-5C9B-4CCF-89D4-1F93CE1C510F}" pluginName="Stores" path="Files.tcFiles" />
-		<child name="DBTables" key="{6C835D43-5BDE-4C22-A287-09077D1C7759}" type="DB tables" typeId="{C3BE8E0F-FB1F-487B-9AE3-BCFEB91CBEFF}" pluginName="Stores" path="DBTables\DBTables.tcDB" />
-		<child name="Tables" key="{31091072-E80F-4434-BD83-FF616862F733}" type="Tables" typeId="{70FC6ED0-A122-4A26-9B64-EDDBB2F11A49}" pluginName="Stores" path="Tables\Tables.tcTbls" />
-		<child name="WebTesting" key="{94C8C970-4E15-4CBC-9023-0B97E9BE98B6}" type="Web Testing" typeId="{B205BEB2-E15D-463E-8F95-9AF50A3E8F46}" pluginName="Web Checkpoints" path="WebTesting\WebTesting.tcWtc" />
-	</children>
-</Root>

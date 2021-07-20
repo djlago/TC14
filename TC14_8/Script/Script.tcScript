@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
-	<children>
-		<child name="OCR_Chart" key="{164F1E88-4428-4DEB-A22B-FD24D4917014}" path="OCR_Chart.py" />
-		<child name="giftcard" key="{1636C13A-3DFD-49EB-B0EA-F7496EFE5436}" path="giftcard.py" />
-	</children>
-</Root>
